@@ -1,5 +1,5 @@
 # Introduction
-👋 Hi, I'm Muhammad Hamza Shamsi, a passionate and dedicated Computer Science graduate from SZABIST, Pakistan.
+👋 Hi, I'm Muhammad Hamza Shamsi, a passionate and dedicated Computer Science graduate from SZABIST(Shaheed Zulfikar Ali Bhutto Institute of Science and Technology University) Karachi, Pakistan.
 <br>
 Currently, I'm working at Arcana Info, where I continue to expand my expertise in IBM Products, networking, and enterprise solutions.
 <br>
